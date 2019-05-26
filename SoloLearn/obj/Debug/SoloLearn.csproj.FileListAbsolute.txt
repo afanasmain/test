@@ -1,0 +1,6 @@
+C:\Users\usser\test\SoloLearn\bin\Debug\SoloLearn.exe.config
+C:\Users\usser\test\SoloLearn\bin\Debug\SoloLearn.exe
+C:\Users\usser\test\SoloLearn\bin\Debug\SoloLearn.pdb
+C:\Users\usser\test\SoloLearn\obj\Debug\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Users\usser\test\SoloLearn\obj\Debug\SoloLearn.exe
+C:\Users\usser\test\SoloLearn\obj\Debug\SoloLearn.pdb
